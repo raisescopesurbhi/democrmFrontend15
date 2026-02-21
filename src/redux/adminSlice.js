@@ -1,4 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
+//adminSlice
 
 const initialState = {
   adminUser: "",
